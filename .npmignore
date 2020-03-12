@@ -2,8 +2,10 @@
 node_modules/
 tests/
 src/
+mm.json
+log4js.json
 tsconfig.json
-.eslintignore 
+.eslintignore
 .eslintrc.json
 .gitignore
 .npmignore
