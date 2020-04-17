@@ -1,6 +1,6 @@
 {
 	"name": "@mmstudio/an000015",
-	"version": "1.0.202003171129",
+	"version": "1.0.202004170800",
 	"description": "编码服务",
 	"scripts": {
 		"test": "tsc && ava ./tests/*.js",
